@@ -76,7 +76,7 @@
                      <option value="Shekspier">Shekspier</option>
                      <option value="Einsteen">Einsteen</option>
                      <option value="Dr.Amit Kumar">Dr.Amit Kumar</option>
-                     <option value="Prof. Abhinav">Prof. Abhinav</option>
+                     <option value="Prof. Ritik">Prof. Ritik</option>
                      
                    </select>
                   </div>
