@@ -1,4 +1,4 @@
 FROM openjdk:11
 EXPOSE 8090
-ADD target/librarySystemAPI.jar librarySystemAPI.jar
-ENTRYPOINT ["java","-jar","/librarySystemAPI.jar"]
+ADD target/librarysystem-service.jar librarysystem-service.jar
+ENTRYPOINT ["java","-jar","/librarysystem-service.jar"]

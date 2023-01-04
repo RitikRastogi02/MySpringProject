@@ -121,7 +121,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		<finalName>librarySystemAPI</finalName>
+		<finalName>librarysystem-service</finalName>
 	</build>
 
 </project>
